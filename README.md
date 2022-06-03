@@ -5,7 +5,8 @@ Predict Health Insurance Owners' who will be interested in Vehicle Insurance
 MedCamp organizes health camps in several cities with low work-life balance. They reach out to working people and ask them to register for these health camps. For those who attend, MedCamp provides them the facility to undergo health checks or increase awareness by visiting various stalls
 
 
-![image](https://user-images.githubusercontent.com/65494424/171801270-d34470b7-3972-4635-aa95-a16799510f3c.png)
+![image](https://user-images.githubusercontent.com/65494424/171801270-d34470b7-3972-4635-aa95-a16799510f3c.png)  ![image](https://user-images.githubusercontent.com/65494424/171801462-5b1dfc84-f284-44b8-9939-88d5cf4930b2.png)
+
 
 
 
